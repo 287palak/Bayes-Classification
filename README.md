@@ -36,8 +36,13 @@ There are 210 rows with 7 input variables and 1 output variable. The variable na
 8. Class (1, 2, 3).
 
 a. Use histogram to plot the distribution of samples
+
 b. Determine the prior probability for all the classes.
+
 c. Discretize the features into bins from scratch. Use of pandas, scikit learn and scipy is not allowed for this subpart.
+
 d. Determine the likelihood/class conditional probabilities for all the classes. 
+
 e. Plot the count of each unique element for each class. Compare the plot with the plot of distribution.
+
 f. Calculate the posterior probabilities and plot them in a single graph. Analyse the plot.
